@@ -14,7 +14,8 @@
 //*    2) THE ENESCLIN DD STATEMENT REFERS TO THE CONTROL STATEMENT   *         
 //*       DATA SET.                dsad                               *         
 //*    3) ADD A VALID JOB CARD STATEMENT                              *         
-//*                                                                   *         
+//* 
+//*    TEST DELETE THIS LINE LATER                                    *         
 //*-------------------------------------------------------------------*         
 //ENBE1000 EXEC PGM=NDVRC1,                                                     
 //             PARM='ENBE1000',                                                 
