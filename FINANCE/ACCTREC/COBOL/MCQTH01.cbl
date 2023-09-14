@@ -3,7 +3,6 @@
 000300 AUTHOR. THOMAS.                                                    
 000400 ENVIRONMENT DIVISION.                                            00000400
       * CHANGE FROM VSCODE.                                                   
-      * FEATURE                                                          
 000500 INPUT-OUTPUT SECTION.                                            00000500
 000600 FILE-CONTROL.                                                    00000600
 000700     SELECT REPORT-FILE ASSIGN U-T-SYSOUT.                        00000700
