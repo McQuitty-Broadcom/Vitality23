@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.                                         00010000
        PROGRAM-ID.     COBMAIN.                                         00020000
-       AUTHOR.         SCOTT DAVIDSON.                                  00030000
+       AUTHOR.         THOMAS.                                          00030000
        ENVIRONMENT DIVISION.                                            00040000
        CONFIGURATION SECTION.                                           00050000
        SOURCE-COMPUTER.        IBM-370.                                 00060000
