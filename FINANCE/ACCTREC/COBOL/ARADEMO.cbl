@@ -1,6 +1,6 @@
 000100 IDENTIFICATION DIVISION.                                         00000100
 000200 PROGRAM-ID. ARADEMO.                                             00000200
-000300 AUTHOR. TSOMAS.                                                          
+000300 AUTHOR. THOMAS.                                                          
 000400 ENVIRONMENT DIVISION.                                            00000400
 000500 INPUT-OUTPUT SECTION.                                            00000500
 000600 FILE-CONTROL.                                                    00000600
