@@ -1,6 +1,6 @@
        01  HEADER-RECORD.                                                       
       *********************************                                         
-      * ADDING A COMMENT LINE                                                   
+      * ADDING A COMMENT LINE   ee                                                
       *********************************                                         
            02 FILLER                 PIC X(43).                                 
            02 REPORT-TITLE           PIC X(36).                                 
