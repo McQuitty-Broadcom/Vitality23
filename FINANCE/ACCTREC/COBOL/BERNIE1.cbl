@@ -16,7 +16,7 @@
 000700 01  WS-DATA  PIC X(02) VALUE 'XX'.                                       
        LINKAGE  SECTION.                                                        
           COPY FINARC01.                                                        
-      ******************************************************************        
+      **************************c*************************************        
 022000 PROCEDURE DIVISION.                                                      
 022100     MOVE '** CONGRATULATIONS, FINARP01 SUCCESSFULLY EXECUTED'     **'    
 022200         TO COPY1-BOOK.                                                   
