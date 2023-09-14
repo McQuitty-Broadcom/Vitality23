@@ -2,7 +2,7 @@
 000200 PROGRAM-ID. MCQTH01.                                             00000200
 000300 AUTHOR. FIRST CHANGE.                                                    
 000400 ENVIRONMENT DIVISION.                                            00000400
-      * CHANGE FROM ENDEVOR1.                                                   
+      * CHANGE FROM VSCODE.                                                   
       * FEATURE                                                                 
 000500 INPUT-OUTPUT SECTION.                                            00000500
 000600 FILE-CONTROL.                                                    00000600
