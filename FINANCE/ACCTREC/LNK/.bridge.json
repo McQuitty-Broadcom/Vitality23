@@ -1,0 +1,9 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "*NOPROC*",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "LINK EDIT CONTROL CARDS"
+  } ],
+  "fileExtension" : ""
+}

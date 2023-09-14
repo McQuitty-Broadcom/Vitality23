@@ -1,0 +1,12 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "COBNN",
+  "definedProcessorGroups" : [ {
+    "name" : "COBCN",
+    "description" : "COBOL CICS PC, COMPILE AND LINK, LISTING IS STORED"
+  }, {
+    "name" : "COBNN",
+    "description" : "COBOL CICS PC, COMPILE AND LINK, LISTING IS STORED"
+  } ],
+  "fileExtension" : "cbl"
+}

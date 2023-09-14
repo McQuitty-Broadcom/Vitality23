@@ -1,0 +1,12 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "LOADONLY",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "NO PROCESSORS ASSIGNED"
+  }, {
+    "name" : "LOADONLY",
+    "description" : "SOURCELESS LOAD PRPCESSOR GROUP"
+  } ],
+  "fileExtension" : ""
+}

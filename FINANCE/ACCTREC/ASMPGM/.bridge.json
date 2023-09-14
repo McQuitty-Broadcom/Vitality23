@@ -1,0 +1,15 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "ASMNBL",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "NO PROCESSORS ASSIGNED"
+  }, {
+    "name" : "ASMNBL",
+    "description" : "ASSEMBLE AND LINK-EDIT, LISTING IS STORED"
+  }, {
+    "name" : "GASMPROT",
+    "description" : "ASSEMBLE AND LINK-EDIT, LISTING IS STORED"
+  } ],
+  "fileExtension" : ""
+}

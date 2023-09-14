@@ -1,0 +1,15 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "*NOPROC*",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "NO PROCESSORS ASSIGNED"
+  }, {
+    "name" : "ESPSIM",
+    "description" : "ESP ASSIMULATE PROCESSOR"
+  }, {
+    "name" : "X",
+    "description" : "dummy"
+  } ],
+  "fileExtension" : ""
+}

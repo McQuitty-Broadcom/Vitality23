@@ -1,0 +1,40 @@
+{
+  "elements" : {
+    "FARINCL" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "FINARC01" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "FINARC02" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "FININCL" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "FOOTER" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "HEADER1" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "PAGING" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "STOPRUN" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "TITLE1" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "TITLE2" : {
+      "processorGroup" : "*NOPROC*"
+    }
+  },
+  "defaultProcessorGroup" : "*NOPROC*",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "NO PROCESSORS ASSIGNED"
+  } ],
+  "fileExtension" : "CPY"
+}

@@ -1,0 +1,19 @@
+{
+  "elements" : {
+    "BC1JSMTP" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "ENDBATCH" : {
+      "processorGroup" : "*NOPROC*"
+    },
+    "JOBCARD" : {
+      "processorGroup" : "*NOPROC*"
+    }
+  },
+  "defaultProcessorGroup" : "*NOPROC*",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "NO PROCESSORS ASSIGNED"
+  } ],
+  "fileExtension" : "JCL"
+}

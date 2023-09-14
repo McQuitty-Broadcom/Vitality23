@@ -1,0 +1,112 @@
+{
+  "elements" : {
+    "ARADEMO" : {
+      "processorGroup" : "CLENBL"
+    },
+    "BERNIE" : {
+      "processorGroup" : "CLENBL"
+    },
+    "BERNIE1" : {
+      "processorGroup" : "CLENBL"
+    },
+    "BKPGM01" : {
+      "processorGroup" : "CLENBL"
+    },
+    "BKPGM02" : {
+      "processorGroup" : "CLENBL"
+    },
+    "BKPGM03" : {
+      "processorGroup" : "CLENBL"
+    },
+    "COBMAIN" : {
+      "processorGroup" : "CLENBL"
+    },
+    "DAMARP01" : {
+      "processorGroup" : "CLECICS"
+    },
+    "DAMCOB01" : {
+      "processorGroup" : "CLECICS"
+    },
+    "DAMJO02" : {
+      "processorGroup" : "CLECICS"
+    },
+    "FINARP01" : {
+      "processorGroup" : "CLENBL"
+    },
+    "FINARS01" : {
+      "processorGroup" : "CLENBL"
+    },
+    "FINARS02" : {
+      "processorGroup" : "CLENBL"
+    },
+    "FINARS03" : {
+      "processorGroup" : "CLENBL"
+    },
+    "FINARS04" : {
+      "processorGroup" : "CLENBL"
+    },
+    "MCQTH01" : {
+      "processorGroup" : "CLENBL"
+    },
+    "MCQTH01A" : {
+      "processorGroup" : "CLENBL"
+    },
+    "MILT68" : {
+      "processorGroup" : "CLENBL"
+    },
+    "SNOW" : {
+      "processorGroup" : "CLENBL"
+    },
+    "TROY1" : {
+      "processorGroup" : "CLENBL"
+    },
+    "TROY2" : {
+      "processorGroup" : "CLENBL"
+    },
+    "TROY3" : {
+      "processorGroup" : "CLENBL"
+    },
+    "TROY4" : {
+      "processorGroup" : "CLENBL"
+    },
+    "TROY5" : {
+      "processorGroup" : "CLENBL"
+    }
+  },
+  "defaultProcessorGroup" : "CLENBL",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "NO PROCESSORS ASSIGNED"
+  }, {
+    "name" : "CIINBL",
+    "description" : "COBOL II COMPILE AND LINK, LISTING IS STORED"
+  }, {
+    "name" : "CIINBLX",
+    "description" : "COBOL II COMP AND LINK, W/PROTSYM LISTING STORED"
+  }, {
+    "name" : "CLECICS",
+    "description" : "CICS COBOL"
+  }, {
+    "name" : "CLENBL",
+    "description" : "COBOL/LE COMPILE AND LINK, LISTING IS STORED"
+  }, {
+    "name" : "CLENBLX",
+    "description" : "COBOL/LE COMPILE AND LINK, LISTING W/INTERTEST"
+  }, {
+    "name" : "COBCN",
+    "description" : "COBOL CICS PC, COMPILE AND LINK, LISTING IS STORED"
+  }, {
+    "name" : "COBNN",
+    "description" : "COBOL CICS PC, COMPILE AND LINK, LISTING IS STORED"
+  }, {
+    "name" : "LEMC2",
+    "description" : "COBOL COMPILE AND LINK"
+  }, {
+    "name" : "LEMCX",
+    "description" : "Try to compile cobol cics pgm"
+  }, {
+    "name" : "X",
+    "description" : "dummy"
+  } ],
+  "fileExtension" : "cbl"
+}

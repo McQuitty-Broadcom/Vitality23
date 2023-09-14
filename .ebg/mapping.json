@@ -1,0 +1,35 @@
+{
+  "version" : 3,
+  "url" : "http://10.252.106.14:8091",
+  "git" : {
+    "context" : "tm633717",
+    "repository" : "Vitality23",
+    "cloneUrl" : "https://github.gwd.broadcom.net/tm633717/Vitality23.git",
+    "branch" : "dev"
+  },
+  "endevor" : {
+    "connection" : "mstrsvw",
+    "baseUrl" : "http://mstrsvw.lvn.broadcom.net:7080/EndevorService/rest",
+    "configuration" : "NDVRWEBS"
+  },
+  "branches" : [ {
+    "name" : "dev",
+    "environment" : "DEV",
+    "stageNumber" : 1,
+    "systems" : [ {
+      "name" : "FINANCE",
+      "alias" : null,
+      "subsystems" : [ {
+        "name" : "ACCTREC",
+        "alias" : null,
+        "filter" : {
+          "elements" : [ ],
+          "types" : [ ]
+        }
+      } ],
+      "filter" : null
+    } ],
+    "workEnvironmentOnly" : false,
+    "readOnly" : false
+  } ]
+}

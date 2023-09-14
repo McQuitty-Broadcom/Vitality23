@@ -1,0 +1,9 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "MAPASM",
+  "definedProcessorGroups" : [ {
+    "name" : "MAPASM",
+    "description" : "CICS MAP ASSEMBLY"
+  } ],
+  "fileExtension" : ""
+}

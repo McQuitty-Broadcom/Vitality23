@@ -1,0 +1,15 @@
+{
+  "elements" : { },
+  "defaultProcessorGroup" : "DENVGRP",
+  "definedProcessorGroups" : [ {
+    "name" : "*NOPROC*",
+    "description" : "SANDBOX PROCESSOR GROUP USING DFC"
+  }, {
+    "name" : "DENVGRP",
+    "description" : "SANDBOX PROCESSOR GROUP USING DFC"
+  }, {
+    "name" : "DYNTEST",
+    "description" : "test processor group for dynamic environments"
+  } ],
+  "fileExtension" : ""
+}
