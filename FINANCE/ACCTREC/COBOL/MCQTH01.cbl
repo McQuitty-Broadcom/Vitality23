@@ -1,9 +1,9 @@
 000100 IDENTIFICATION DIVISION.                                         00000100
 000200 PROGRAM-ID. MCQTH01.                                             00000200
-000300 AUTHOR. FIRST CHANGE.                                                    
+000300 AUTHOR. THOMAS.                                                    
 000400 ENVIRONMENT DIVISION.                                            00000400
       * CHANGE FROM VSCODE.                                                   
-      * FEATUREfsdf                                                           
+      * FEATURE                                                          
 000500 INPUT-OUTPUT SECTION.                                            00000500
 000600 FILE-CONTROL.                                                    00000600
 000700     SELECT REPORT-FILE ASSIGN U-T-SYSOUT.                        00000700
