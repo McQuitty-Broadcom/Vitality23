@@ -1,6 +1,7 @@
 000100 IDENTIFICATION DIVISION.                                                 
 000200 PROGRAM-ID. FINARS03.                                                    
-      * Plugin extension                                                        
+      * Plugin extension  
+      ************************ TEST CHANGE                                                      
 000300 ENVIRONMENT DIVISION.                                                    
 000400 INPUT-OUTPUT SECTION.                                                    
 000500 FILE-CONTROL.                                                            
