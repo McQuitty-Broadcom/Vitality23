@@ -2,6 +2,7 @@
 000200 PROGRAM-ID. FINARS03.                                                    
       * Plugin extension    
       * Tom's Change                                               
+      ************************ TEST CHANGE  
 000300 ENVIRONMENT DIVISION.                                                    
 000400 INPUT-OUTPUT SECTION.                                                    
 000500 FILE-CONTROL.                                                            
